@@ -7,7 +7,7 @@ package com.mycompany.googleapitestlocation;
 
 /**
  *
- * @author deck
+ * @author Jay Vaidya
  */
 public class testingphace {
 //    public static void main(String[] args) {
