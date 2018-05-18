@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author chandrakant
+ * @author Jay Vaidya
  */
 public class AddressComponent implements Serializable {
 
