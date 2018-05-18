@@ -11,7 +11,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 /**
  *
  *
- * @author Abhishek Somani
+ * @author Jay Vaidya
  *
  */
 public class Result {
