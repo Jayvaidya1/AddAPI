@@ -9,7 +9,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 
 /**
  *
- * @author deck
+ * @author jay vaidya
  */
 public class Geometry {
 
