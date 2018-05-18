@@ -7,7 +7,7 @@ package com.mycompany.googleapitestlocation;
 
 /**
  *
- * @author deck
+ * @author Jay Vaidya
  */
 public class GoogleResponse {
 
